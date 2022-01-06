@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+## Who Am I
+🎓 I majored in Information and Communication Engineering
 <!--
 **gwaaan/gwaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
